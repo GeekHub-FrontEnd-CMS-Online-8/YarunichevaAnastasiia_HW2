@@ -1,0 +1,58 @@
+body {
+	width: 700px;
+	margin: 0 auto;
+}
+
+header {
+	text-align: center;
+	line-height: 20px;
+}
+
+div {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+.upper {
+	font-size: 23px;
+}
+
+p {
+	font-size: 15px;
+}
+
+li {
+	font-size: 15px;
+}
+
+.start {
+	font-weight: bold;
+}
+
+.central {
+	text-align: justify;
+	font-style: italic;
+	text-align-last: center;
+}
+
+.first {
+	float: left;
+	height: 200px;
+}
+
+.it {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.second {
+	text-align: center;
+}
+
+.tree {
+	height: 250px;
+}
